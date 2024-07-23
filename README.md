@@ -140,12 +140,9 @@
 - [lightGallery](https://github.com/sachinchoolur/lightGallery)
 
 # 喝杯饮料
-![赞赏码-微信](https://s1.ax1x.com/2020/05/16/YcePUI.png)
-![付款码-QQ](https://s1.ax1x.com/2020/05/16/Ycei5t.png)
-![付款码-支付宝](https://s1.ax1x.com/2020/05/16/YceCVA.png)
+
 
 # 交流群
-QQ群：959828088
 
 # 注意事项
 
